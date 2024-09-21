@@ -4,7 +4,7 @@ DDoS（Distributed Denial of Service，分布式拒绝服务）攻击是一种�
 
 下载与安装
 
-git clone https://github.com/YuHang-ya/dos-Tools.git
+git clone https://github.com/YuHang-ya/DOS-Code.git
 
 cd ddos-Tools
 
